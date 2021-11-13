@@ -1,7 +1,7 @@
 # Build a docker image from latest YaCy sources
 
 # Base image : latest Debian stable official jdk 8 image from Docker
-FROM openjdk:11.0-stretch
+FROM openjdk:17-ea-22-jdk-oracle
 
 # Install needed packages not in base image 
 # (curl for sh scripts in /bin, and wkhtmltopdf,imagemagick,xvfb and ghostscript to enable PDF and image snapshot generation)
