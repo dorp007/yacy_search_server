@@ -1,7 +1,7 @@
 # YaCy
 [![Gitter](https://badges.gitter.im/yacy/yacy_search_server.svg)](https://gitter.im/yacy/yacy_search_server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/yacy/yacy_search_server.svg?branch=master)](https://travis-ci.org/yacy/yacy_search_server)
-
+[![GuardRails badge](https://api.guardrails.io/v2/badges/dorp007/yacy_search_server.svg?token=cf4c0240bd774ed1c7042e74324c7d6cc28c1d93f9667585d595b5305e54369e&provider=github)](https://dashboard.guardrails.io/gh/dorp007/94324)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## What is this?
